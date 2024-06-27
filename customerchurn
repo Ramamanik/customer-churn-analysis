@@ -1,3 +1,5 @@
+SQL to drive customer retention count. 
+
 script to insert data :
 ------------------------
 create table transactions(
